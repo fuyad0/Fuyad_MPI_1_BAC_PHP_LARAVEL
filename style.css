@@ -1,0 +1,16 @@
+#carouselExampleCaptions img{
+    height: 500px;
+}
+#workflow img{
+    height: 200px;
+}
+.box{
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+}
+.img{
+    height: 150px;
+    width: 150px;
+    top: -30px;
+}
